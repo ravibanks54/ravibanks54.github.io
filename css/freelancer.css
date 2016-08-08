@@ -189,6 +189,10 @@ section.success {
   background: #18BC9C;
   color: white;
 }
+section.danger {
+  background: #004d1a;
+  color: white;
+}
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
