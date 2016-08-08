@@ -516,7 +516,7 @@ fieldset[disabled] .btn-success.active {
   margin: 80px 0; /* <hr> between each */
 }
  .featurette {
-  padding-top: 120px;
+  padding-top: 90px;
   overflow: hidden; /* Clear floats */
 }
  .featurette-image {
