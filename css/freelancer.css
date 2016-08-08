@@ -504,5 +504,6 @@ fieldset[disabled] .btn-success.active {
 }
 .edu-center{
   text-align: center;
+  padding-top: 10px;
 }
 
