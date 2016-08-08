@@ -509,4 +509,6 @@ fieldset[disabled] .btn-success.active {
 .education-subtitle{
   margin: 10px;
 }
-
+.education-body{
+  margin: 10px;
+}
