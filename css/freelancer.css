@@ -519,9 +519,6 @@ fieldset[disabled] .btn-success.active {
   padding-top: 90px;
   overflow: hidden; /* Clear floats */
 }
- .featurette-image {
-  margin-top: −120px; /* Vertically center image with the text */
-}
  .featurette-heading {
   font-size: 50px;
   font-weight: 300;
@@ -533,4 +530,50 @@ fieldset[disabled] .btn-success.active {
 }
  .featurette-image.pull-right {
   margin-left: 40px;
+}
+.progress {
+  height: 35px;
+  background-color: #eee;
+  border-radius: 4px;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  line-height: 32px;
+  margin-bottom: 35px;
+}
+.progress-bar {
+  font-size: 16px;
+  line-height: 34px;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  font-weight:500;
+}
+.progress-bar-success {
+  background-color: #189AB7;
+}
+.progress-bar-warning {
+  background-color: #1AAFD0;
+}
+.progress-bar.progress-bar-success1 {
+  background: #580F71;
+}
+.progress-bar.progress-bar-warning1 {
+  background: #773A8C;
+}
+.progress-bar.progress-bar-success2 {
+  background: #B16119;
+}
+.progress-bar.progress-bar-warning2 {
+  background: #ff7900;
+}
+.progress-bar.progress-bar-success3 {
+  background: #3F751F;
+}
+.progress-bar.progress-bar-warning3 {
+  background: #41980E;
+}
+.progress-bar.progress-bar-success4 {
+  background: #7D0E0E;
+}
+.progress-bar.progress-bar-warning4 {
+  background: #BD0000;
 }
