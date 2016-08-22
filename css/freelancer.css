@@ -577,3 +577,7 @@ fieldset[disabled] .btn-success.active {
 .progress-bar.progress-bar-warning4 {
   background: #BD0000;
 }
+.img-portfolio {
+  width: 400px;
+  height: 300px;
+}
